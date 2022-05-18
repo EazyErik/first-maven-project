@@ -2,6 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println(checkString("asdfasdfasdfsadffancy"));
+        System.out.println(Loops.faculty(3));
 
     }
 
